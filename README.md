@@ -1,3 +1,5 @@
 # concrete-strength-prediction
-## this deep learning model is very useful for prediction house buling age by finding strenght of materila used for buliding this house
-### by builing deep learning model we can predict strength of concrete
+- Project: Keras deep learning for concrete strength prediction, used three models with different parameters. 
+  - Model 1: original data, one hidden layer, 10 nodes
+  - Model 2: normalized data, one hidden layer, 10 nodes
+  - Model 3: normalized data, three hidden layers, 10 nodes
